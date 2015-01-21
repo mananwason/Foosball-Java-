@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE DOCTYPE SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="APProjecttests" verbose="1">
+	<test name="Projecttests">
+		<groups>
+			<run>
+				<include name="Projecttests"></include></run></groups>
+		<classes>
+			<class name="ap2014.Project.tests.ProjectTests"></class></classes></test></suite>
